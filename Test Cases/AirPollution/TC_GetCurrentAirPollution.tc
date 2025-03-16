@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GetCurrentAirPollution</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1c632ac-0968-4796-9bcc-04e095a88d7f</testCaseGuid>
+</TestCaseEntity>
