@@ -45,7 +45,6 @@ Berikut adalah struktur folder utama dalam project ini:
 1. **Clone repository ini**
    ```sh
    git clone https://github.com/dimas-sulaksono/TechnicalTest-QA-ADL.git
-   cd TechnicalTest-QA-ADL
    ```
 2. **Buka Katalon Studio**
 3. **Import project ini**
